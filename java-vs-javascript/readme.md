@@ -1,4 +1,4 @@
-##Java v/s JavaScript
+## Java v/s JavaScript
 
 1. Each language requires different plug-ins.
 2. JavaScript code is run on a browser only, while Java creates applications that run in a virtual machine or browser.
